@@ -14,6 +14,6 @@ li{color:#000080}
 body {
     background-image: url("https://external-preview.redd.it/wHKbbMFC-wmMatmKE1yPBsTaAJtdLJCEkPFJ6z2I7c0.jpg?auto=webp&s=a103beee2b30d1c0aa34fedf7514de1d37406dda");background-repeat: repeat-y;
   background-position: left top ;background-position: 50% 40px;}
-  h1, h2 {   border: 4px solid orange;
+  header {   border: 4px solid orange;
   border-radius: 20px 0px 20px 0px;}
   p {  border: 4px solid orange;  border-radius: 20px; }
