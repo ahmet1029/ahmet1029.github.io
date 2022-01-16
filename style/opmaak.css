@@ -1,8 +1,8 @@
 
 body  {  color: darkblue;  /* color  verandert de tekstkleur*/ background-color: lightgrey;}
 
-h2 {text-align: center;}
-p {text-align: center;}
+ header{text-align: center;}
+ nav{text-align: center;}
 h1 {   font-family: Georgia;}
 p {  font-family: Verdana;}
 h2 {font-family: Courier;}
