@@ -1,6 +1,6 @@
 
 body  {  color: darkblue;  /* color  verandert de tekstkleur*/ background-color: lightgrey;}
- div{text-align: center;}
+ wrapper{text-align: center;}
 h1 {   font-family: Georgia;}
 p {  font-family: Verdana;}
 h2 {font-family: Courier;}
