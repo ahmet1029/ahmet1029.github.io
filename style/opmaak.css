@@ -1,9 +1,6 @@
 
 body  {  color: darkblue;  /* color  verandert de tekstkleur*/ background-color: lightgrey;}
- header{text-align: center;}
- nav{text-align: center;}
-section{text-align: center;}
-footer{text-align: center;}
+ div{text-align: center;}
 h1 {   font-family: Georgia;}
 p {  font-family: Verdana;}
 h2 {font-family: Courier;}
