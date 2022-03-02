@@ -21,6 +21,6 @@ wrapper { margin: 0 auto 0 auto;width: 220px;}
 body 
 {
  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VVD_logo_%282020%E2%80%93present%29.svg/2074px-VVD_logo_%282020%E2%80%93present%29.svg.png");
- background-repeat: no-repeat;
+ background-repeat: repeat-y;
  background-position: right top;
 } 
